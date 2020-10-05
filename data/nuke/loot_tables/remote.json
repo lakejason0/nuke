@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:carrot_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{id:'nuke:remote',display:{Name:'{\"translate\":\"item.nuke.remote\"}'},CustomModelData:13400000}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

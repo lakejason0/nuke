@@ -1,0 +1,1 @@
+execute as @s[scores={nukeUseCSt=1..}] at @s run function nuke:use_carrot_on_a_stick/type
