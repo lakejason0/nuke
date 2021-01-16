@@ -1,2 +1,2 @@
 # nuke
-Nuke you Minecraft world with your eyes.
+Nuke your Minecraft world with your eyes.
